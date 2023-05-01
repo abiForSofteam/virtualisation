@@ -1,7 +1,12 @@
 # $\color{#D4101D}{VIRTUALISATION - port forwarding}$
 Cet article montre une façon d'accéder à une page web d'une machine virtuelle (sur laquelle j'installe le serveur nginx), un accès depuis le navigateur du host (et non de la machine virtuelle même).
 
-
+## Environnement de travail
+Je précise que j'ai mis la VM en place à partir de Vagrant, en ayant choisi comme box hashicorp/bionic64
+Nous travaillons donc sur une distribution ubuntu
+<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/vm_system.png">
+Je précise également que l'adresse ip que j'ai attribuée à la VM est la suivante : 
+192.168.56.10
 
 ## Installation du serveur web nginx sur la machine virtuelle
 En ligne de commande, l'installation du serveur web nginx se fait de la façon suivante:  
