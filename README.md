@@ -25,6 +25,7 @@ La Vérification de l'état du serveur se fait par la commande suivante:
 
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/master/img3.png">
 
-### <u>Affichage de la page sur le navigateur de la machine hôte (bien que le serveur nginx soit installé sur la VM)</u>
+### Affichage de la page sur le navigateur de la machine hôte (bien que le serveur nginx soit installé sur la VM)
+---
 
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/nginx_from_host_browser.png">
