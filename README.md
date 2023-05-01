@@ -4,13 +4,13 @@ Cet article montre une façon d'accéder à une page web d'une machine virtuelle
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/img1.png">
 
 ## Installation du serveur web nginx sur la machine virtuelle
-En ligne de commande, l'installation du serveur web nginx se fait de la façon suivante:
+En ligne de commande, l'installation du serveur web nginx se fait de la façon suivante:  
 
 $\color{#D4101D}{sudo apt-get install nginx -y}$
 
 
 ## Vérification de l'état du serveur
-La Vérification de l'état du serveur se fait par la commande suivante:
+La Vérification de l'état du serveur se fait par la commande suivante:  
 
 $\color{#D4101D}{service nginx status}$
 
