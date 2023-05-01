@@ -3,3 +3,4 @@ Cet article montre une façon d'accéder à une page web d'une machine virtuelle
 
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/img1.png">
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/img2.png">
+<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/img3.png">
