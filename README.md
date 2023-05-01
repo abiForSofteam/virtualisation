@@ -8,7 +8,7 @@ En ligne de commande, l'installation du serveur web nginx se fait de la façon s
 $\color{#D4101D}{sudo apt-get install nginx -y}$
 
 
-# Vérification de l'état du serveur
+## Vérification de l'état du serveur
 La Vérification de l'état du serveur se fait par la commande suivante:
 $\color{#D4101D}{service nginx status}$
 
