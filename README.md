@@ -4,7 +4,7 @@ Cet article montre une façon d'accéder à une page web d'une machine virtuelle
 ## Environnement de travail
 Je précise que j'ai mis la VM en place à partir de Vagrant, en ayant choisi comme box hashicorp/bionic64
 Nous travaillons donc sur une distribution ubuntu
-<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/vm_system.png">
+<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/vm_system.png"> 
 Je précise également que l'adresse ip que j'ai attribuée à la VM est la suivante : 
 192.168.56.10
 
