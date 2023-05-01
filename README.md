@@ -8,6 +8,8 @@ En ligne de commande, l'installation du serveur web nginx se fait de la façon s
 
 $\color{#D4101D}{sudo apt-get install nginx -y}$
 
+<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/main/nginx_install.png">
+
 
 ## Vérification de l'état du serveur
 La Vérification de l'état du serveur se fait par la commande suivante:  
