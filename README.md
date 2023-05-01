@@ -14,5 +14,7 @@ La Vérification de l'état du serveur se fait par la commande suivante:
 
 $\color{#D4101D}{service nginx status}$
 
+<img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/master/nginx_status.png">
+
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/master/img2.png">
 <img src="https://raw.githubusercontent.com/abiForSofteam/virtualisation/master/img3.png">
