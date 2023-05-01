@@ -10,6 +10,8 @@ Nous travaillons donc sur une distribution ubuntu
 Je précise également que l'adresse ip que j'ai attribuée à la VM est la suivante : 
 192.168.56.10
 
+<sub>***Vagrant fera l'objet d'un prochain article***</sub>
+
 ## Installation du serveur web nginx sur la machine virtuelle
 En ligne de commande, l'installation du serveur web nginx se fait de la façon suivante:  
 
